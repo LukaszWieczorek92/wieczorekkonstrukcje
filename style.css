@@ -568,7 +568,9 @@ header{
 }
 
 .gallery .title{
-    width: 100vw;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
     line-height: 100px;
     text-align: center;
     
@@ -576,6 +578,8 @@ header{
 }
 .gallery .title h1{
     font-size: 44px;
+    
+    
 }
 .gallery .images{
     display: flex;
