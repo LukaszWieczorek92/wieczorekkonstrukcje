@@ -265,6 +265,7 @@ header{
     padding: 60px 20px;
     text-align: center;
     margin: 0 20px 20px 0;
+    display: none;
 }
 
 .textbox h1{
