@@ -40,8 +40,8 @@ $(".menu-mobile").toggleClass("active");
 
 //textbox show up
 $(document).ready(function () {
-    $('.textbox').fadeIn(1500);
-   // $('.textbox').show(2200);
+    $('.textbox').fadeIn(2000);
+   //$('.textbox').show(2200);
     //$('.textbox').slideDown(1000);
 });
  
