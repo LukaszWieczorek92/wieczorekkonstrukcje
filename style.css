@@ -325,6 +325,9 @@ header{
     
 }
 @media(max-width:480px){
+    .header{
+    
+    }
     .textbox{
         left: 50%;
         top: 60%;
@@ -559,7 +562,7 @@ header{
 
 .gallery .images a{
     
-   flex-basis: 23%;
+   flex-basis: 45%;
    position: relative;
    overflow: hidden;
     margin: 4px;
