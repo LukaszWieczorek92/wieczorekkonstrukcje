@@ -325,9 +325,7 @@ header{
     
 }
 @media(max-width:480px){
-    .header{
     
-    }
     .textbox{
         left: 50%;
         top: 60%;
